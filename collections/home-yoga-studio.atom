@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.yogi-bare.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.yogi-bare.com/collections/home-yoga-studio.atom"/>
+  <title>Yogi Bare USA</title>
+  <updated>2021-06-23T04:19:57-05:00</updated>
+  <author>
+    <name>Yogi Bare USA</name>
+  </author>
+  <entry>
+    <id>https://www.yogi-bare.com/products/5895559086240</id>
+    <published>2021-06-23T04:19:57-05:00</published>
+    <updated>2021-06-23T04:19:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/item-personalization"/>
+    <title>Item Personalization</title>
+    <s:type>PPLR_HIDDEN_PRODUCT</s:type>
+    <s:vendor>Yogi Bare USA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/item-personalization.png?v=1606837377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare USA<br>
+        <strong>Type: </strong>PPLR_HIDDEN_PRODUCT<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">*** This is a hidden product used by Product Personalizer. You can modify everything except Price and Product availability . Use app settings to change the Price. More details : https://productpersonalizer.com/how-options-with-costs-are-displayed-in-the-cart-checkout</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/5895559086240</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>YBCARPER</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/6779209711776</id>
+    <published>2021-06-23T03:34:35-05:00</published>
+    <updated>2021-06-23T03:34:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/gift-card"/>
+    <title>Gift card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/YB_GC_1_2048x2048_f25476b4-f58e-439a-a499-3207ea66b4ee.jpg?v=1624437253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            25.00 - 200.00
+            <a href="https://www.yogi-bare.com/products/gift-card">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Shopping for someone else but not sure what to give them? Give them the gift of choice with a Yogi Bare gift card.</p>
+<p data-mce-fragment="1">Gift cards are delivered by email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/6779209711776</id>
+      <title>$25.00</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/6779209711776</id>
+      <title>$50.00</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/6779209711776</id>
+      <title>$75.00</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/6779209711776</id>
+      <title>$100.00</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/6779209711776</id>
+      <title>$150.00</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/6779209711776</id>
+      <title>$200.00</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/5996570640544</id>
+    <published>2021-05-21T15:06:06-05:00</published>
+    <updated>2021-05-21T15:06:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/flow-paws-natural-rubber-extreme-grip-yoga-mat"/>
+    <title>Flow Paws - Natural rubber extreme grip yoga mat</title>
+    <s:type>Yoga Mat</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-Paws-Yoga-Mat-Flow-7.jpg?v=1620749412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Mat<br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>For when you feel lost at sea … we bring you FLOW. A first of its kind, Yogi Bare innovation. After nearly two years of testing, we have managed to create a photographic print on eco-conscious high-performance rubber.<br><br>
+</h4>
+<h6>Description</h6>
+<p>Of course we had to bring the ocean to life on our latest creation. We hope that FLOW serves as a reminder to your infinite depth and wonder, that even when the surface gets a little rough, changeable and choppy you remember that under the sea there is a whole beautiful world that still exists and still lives on, just as with ourselves.<br><br>We believe in the healing power and perspective of the ocean which is why FLOW goes beyond just a mat.<br><br>Each mat comes with a digital download of our<strong> Exclusive Yogi Bare Magazine – Ride The Wave</strong>. A mental health toolkit full of interviews, inspiration, poetry and practical tips from surfers, swimmers, illustrators and poets.<br><br>As well as this we have chosen to donate proceeds from each sale to <strong>The Wave Project</strong>. The Wave Project is a national surf therapy charity that works with young people to improve their mental and emotional wellbeing.  The charity began life on a single beach in Cornwall ten years ago and now works with children across the UK.</p>
+<h4>Here’s to riding the waves together and finding your FLOW.</h4>
+<h6>Specification:</h6>
+<ul>
+<li>
+<p>Our Infamous Grip, Naturally. It wouldn't be Yogi Bare without it.</p>
+</li>
+<li>
+<p>Smooth but anti slip PU top + 100% natural and sustainable rubber base.</p>
+</li>
+<li>
+<p>Dimensions: 180cm x 66cm - slightly longer and wider than your average yoga mat giving you more room to play. </p>
+</li>
+<li>
+<p>A 4mm thickness provides a stable yet supportive surface to protect your joints. </p>
+</li>
+<li>
+<p>Weight 2.5kg.</p>
+</li>
+</ul>
+<h4></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best for_Extra Support</s:tag>
+    <s:tag>Best for_Ultra Grip</s:tag>
+    <s:tag>Paws</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/5996570640544</id>
+      <title>Default Title</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>YBPAWSWAVE</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/5525408448672</id>
+    <published>2020-08-20T05:21:58-05:00</published>
+    <updated>2020-08-20T05:21:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/acupressure-set-grey"/>
+    <title>YB - Acupressure set grey</title>
+    <s:type>Acupressure Sets</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/GreyAcupressureMatSet-1.jpg?v=1598429425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Acupressure Sets<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Why?</h3>
+<ul>
+<li>Sleep + Insomnia</li>
+<li>Anxiety + Stress</li>
+<li>Energy + Circulation</li>
+<li>Muscle Relief + Sports Recovery</li>
+<li>Back + Chronic Pain</li>
+<li>Migraine + Cranial Tension</li>
+</ul>
+<p> </p>
+<h3>Specification -<br>
+</h3>
+<ul>
+<li>Measures 74cm x 43cm x 2cm</li>
+<li>Made from soft cotton outer, foam inner</li>
+<li>Pressure points made from plastic</li>
+<li>210 pressure points</li>
+</ul>
+<p> </p>
+<h3>Feeling Under Pressure? Try Yogi Bare Acupressure!</h3>
+<h3>What?</h3>
+<p>What is acupressure? As the name suggests, acupressure works by applying pressure to various points of the body whereas acupuncture uses needles. Acupressure restores balance to the body’s energy flow (qi) by manipulating the body’s meridians. The term ‘Meridian’ refers to the set of pathways that flow through body, acting as a mode of transport for vital energy. This energy effects everything from mood to health and wellbeing.</p>
+<h3>What is Acupressure?</h3>
+<p>Our acupressure mat works in a similar way to the ancient art of acupuncture.  As the name suggests, acupressure works by applying pressure to various points of the body whereas acupuncture uses needles. Acupressure restores balance to the body’s energy flow (qi) by manipulating the body’s meridians Stimulating energy, vitality and a sense of well being in the body.  The gentle, painless pressure of the mat allows the body to relax and release endorphins, creating panic flow or life force within the body.  When using the mat you will feel a sense of elation inviting happiness, energy and calm into your day.</p>
+<h3>How?</h3>
+<p>Lie on your mat between 20-40 mins several times a week for maximum benefit.</p>
+<p>Skin Contact is the best but you may wish to experiment with a light T-shirt or towel until you find the right level of sensation for you.</p>
+<p>Take your time to find the “just right” position for you, the mat should feel comfortable.</p>
+<p>Do not be apprehensive as the round plastic spikes are painless and will create a gentle stimulation. The spikes have a rounded tip, so can't hurt you, however people with sensitive skin, haemophilia or psoriasis should use the mat with caution. The Acupressure Mat will allow your body to start breaking down toxins so please do remember to drink water after use. Using your Yogi Bare Acupressure Mat couldn't be easier</p>
+<p>Yogi Bare Founder Kat’s Favourites:</p>
+<p>Yogi Bare Acupressure sets are a wonderful compliment to a meditation/ Yoga practice. For an extra treat and to really melt into your relaxation light a candle, position your legs up the wall and drop a few essential oils on to the mat – our favourite is Geranium for anxiety!</p>
+<h3>For Energy:</h3>
+<p>We love the sensation of the mat on our feet to stimulate the reflexology points and nerve endings resulting in an energy boost. Perfect for tired sore legs or lethargy.</p>
+<h3>For Sleep + Back Pain:</h3>
+<p>Lie on the mat and position the pillow in the neck crevice behind the head. Allow your shoulder blades in drop down your back towards your tailbone and melt into the mat. Enjoy the feelings of the muscles in the back being stimulated and releasing.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acupressure mat</s:tag>
+    <s:tag>Acupressure set</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/5525408448672</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>YBACUSETGY</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/5525400649888</id>
+    <published>2020-08-20T05:21:57-05:00</published>
+    <updated>2020-08-20T05:21:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/acupressure-set-black"/>
+    <title>YB - Acupressure set black</title>
+    <s:type>Acupressure Sets</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-Acupressure-pillow-5.jpg?v=1597830142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Acupressure Sets<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Why?</h3>
+<ul>
+<li>Sleep + Insomnia</li>
+<li>Anxiety + Stress</li>
+<li>Energy + Circulation</li>
+<li>Muscle Relief + Sports Recovery</li>
+<li>Back + Chronic Pain</li>
+<li>Migraine + Cranial Tension</li>
+</ul>
+<p> </p>
+<h3>Specification -<br>
+</h3>
+<ul>
+<li>Measures 74cm x 43cm x 2cm</li>
+<li>Made from soft cotton outer, foam inner</li>
+<li>Pressure points made from plastic</li>
+<li>210 pressure points</li>
+</ul>
+<p> </p>
+<h3>Feeling Under Pressure? Try Yogi Bare Acupressure!</h3>
+<h3>What?</h3>
+<p>What is acupressure? As the name suggests, acupressure works by applying pressure to various points of the body whereas acupuncture uses needles. Acupressure restores balance to the body’s energy flow (qi) by manipulating the body’s meridians. The term ‘Meridian’ refers to the set of pathways that flow through body, acting as a mode of transport for vital energy. This energy effects everything from mood to health and wellbeing.</p>
+<h3>What is Acupressure?</h3>
+<p>Our acupressure mat works in a similar way to the ancient art of acupuncture.  As the name suggests, acupressure works by applying pressure to various points of the body whereas acupuncture uses needles. Acupressure restores balance to the body’s energy flow (qi) by manipulating the body’s meridians Stimulating energy, vitality and a sense of well being in the body.  The gentle, painless pressure of the mat allows the body to relax and release endorphins, creating panic flow or life force within the body.  When using the mat you will feel a sense of elation inviting happiness, energy and calm into your day.</p>
+<h3>How?</h3>
+<p>Lie on your mat between 20-40 mins several times a week for maximum benefit.</p>
+<p>Skin Contact is the best but you may wish to experiment with a light T-shirt or towel until you find the right level of sensation for you.</p>
+<p>Take your time to find the “just right” position for you, the mat should feel comfortable.</p>
+<p>Do not be apprehensive as the round plastic spikes are painless and will create a gentle stimulation. The spikes have a rounded tip, so can't hurt you, however people with sensitive skin, haemophilia or psoriasis should use the mat with caution. The Acupressure Mat will allow your body to start breaking down toxins so please do remember to drink water after use. Using your Yogi Bare Acupressure Mat couldn't be easier</p>
+<p>Yogi Bare Founder Kat’s Favourites:</p>
+<p>Yogi Bare Acupressure sets are a wonderful compliment to a meditation/ Yoga practice. For an extra treat and to really melt into your relaxation light a candle, position your legs up the wall and drop a few essential oils on to the mat – our favourite is Geranium for anxiety!</p>
+<h3>For Energy:</h3>
+<p>We love the sensation of the mat on our feet to stimulate the reflexology points and nerve endings resulting in an energy boost. Perfect for tired sore legs or lethargy.</p>
+<h3>For Sleep + Back Pain:</h3>
+<p>Lie on the mat and position the pillow in the neck crevice behind the head. Allow your shoulder blades in drop down your back towards your tailbone and melt into the mat. Enjoy the feelings of the muscles in the back being stimulated and releasing.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acupressure mat</s:tag>
+    <s:tag>Acupressure set</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/5525400649888</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>YBACUSETBK</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/5479024820384</id>
+    <published>2020-08-12T11:58:11-05:00</published>
+    <updated>2020-08-12T11:58:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/teddy-lightweight-travel-yoga-mat-nevada"/>
+    <title>Teddy - Lightweight travel yoga mat - Nevada</title>
+    <s:type>Yoga Mat</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-Teddy-Yoga-Mat-Nevada-3.jpg?v=1596725635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Mat<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>“I MAY NOT HAVE GONE WHERE I INTENDED TO GO, BUT I THINK I HAVE ENDED UP WHERE I INTENDED TO BE.” – DOUGLAS ADAMS</h4>
+<h4>Lock down got us dreaming of adventure and road trips so we created the mat to bring that sense of desert dreaming to your home yoga studio – hello interior goals!<br><br>In our latest print we bring you an artistic imagining of 70s California bohemia to inspire a sense of freedom. The freedom that your practice can bring you.<br><br>Move like art and create your own flow.</h4>
+<h4>Supportive, foldable, machine washable and not to mention oh so pretty; The Yogi Bare Teddy mat is the ultimate yoga mat innovation for home and away.</h4>
+<h6>Description<br>
+</h6>
+<ul>
+<li>
+<p>Sweaty Yogis (We feel ya!) who need an absorbent surface that works with them rather than against them.</p>
+</li>
+<li>
+<p>Hot Yoga (Hot Yogis!) who want to combine their mat and towel for a hygienic, convenient, grippier solution.</p>
+</li>
+<li>
+<p>Travel, outdoor and holiday Yoga!  At 1.5kg it is lightweight and folds into a small square (the same size as a jumper!)  so say goodbye to those packing woes! Also can be popped in the washing machine post practice.</p>
+</li>
+<li>
+<p>Also great for intense exercise and popping over the top of studio mats to maintain hygiene and for a little extra support.</p>
+</li>
+</ul>
+<p>The velvet microfibre surface becomes grippy under sweat and moisture, while the natural sustainable rubber base grips to the floor – no more bunching up!<br><br>At 1.5kg it is lightweight and folds into a small square (the same size as a jumper!)  so say goodbye to those packing woes!<br><br>We’ve never heard of a nasty Teddy so we’ve kept it free of them – non toxic water based inks and dyes created vivid fashion forward designs and limited edition prints which the base is crafted from bio degradable rubber.<br><br>Our TEDDY mat will move with you, travel with you and challenge you as the texture allows you to fully engage your muscles building strength within. Leaving you feeling stable and secure to practice anywhere and everywhere.<br><br>Tip: Spritz with a little water if your paws are dry to unlock the grip and genius of the surface.</p>
+<h6>Specification</h6>
+<p>Materials: Natural Rubber and Micro Fiber Toweling.</p>
+<p>Dimensions: 183cm x 61cm</p>
+<p>Thickness: 2mm</p>
+<p>Fully machine washable – never debate going to Hot Yoga again!</p>
+<h3></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best for_Hot Yoga</s:tag>
+    <s:tag>Best for_Lightweight</s:tag>
+    <s:tag>Best for_Travel</s:tag>
+    <s:tag>Teddy</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/5479024820384</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>YBTEDNEV</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/5479024656544</id>
+    <published>2020-08-12T11:56:20-05:00</published>
+    <updated>2020-08-12T11:56:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/paws-light-natural-rubber-extreme-grip-yoga-mat-black"/>
+    <title>Paws Light - Natural rubber extreme grip yoga mat - Black - Travel version</title>
+    <s:type>Yoga Mat</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-Paws-Yoga-Mat-black2.jpg?v=1620749760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Mat<br>
+        <strong>Price: </strong>
+            104.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>THE NEW LIGHTWEIGHT TRAVEL VERSION OF OUR BELOVED YOGI BARE ® “PAWS” MAT</h4>
+<h4><span>GRIP LIKE NEVER BEFORE</span></h4>
+<h4><span>Say Goodbye to being a Grizzly Yogi Bare and allow us to introduce the Yogi Bare PAWS mat for the grip of your life. Crafted from eco friendly natural rubber you won’t be able to keep your paws off of it. </span></h4>
+<h4><span>Can’t wait to get your PAWS on one? </span></h4>
+<h6>Specifications<span><br> </span>
+</h6>
+<ul>
+<li>Materials: Natural Rubber and PU</li>
+<li>Thickness (for Savasana!) : 2mm <br>
+</li>
+<li>Weight  1.5 Kg<br>
+</li>
+<li>Non slip technology<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best for_Lightweight</s:tag>
+    <s:tag>Best for_Travel</s:tag>
+    <s:tag>Best for_Ultra Grip</s:tag>
+    <s:tag>Paws</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/5479024656544</id>
+      <title>Default Title</title>
+      <s:price currency="USD">104.95</s:price>
+      <s:sku>YBTRAPWBK</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/5479023902880</id>
+    <published>2020-08-12T11:55:45-05:00</published>
+    <updated>2020-08-12T11:55:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-paws-x-yoga-mat"/>
+    <title>Paws X - Enhanced grip longer and wider yoga mat - Black</title>
+    <s:type>Yoga Mat</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-PRODUCT-COLOUR-8_4f86f463-7331-48da-9079-86a15c7d7c38.jpg?v=1620749639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Mat<br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><span color="#222222">Change Your Mat. Change Your Flow. Change Your Life.</span></h4>
+<p><span color="#222222">Longer and wider than your average yoga mat, this style allows you to flow to your own rhythm and find the inner warrior in you. Get experimental and energise your body with extra thickness for supportive comfort. This mat also has innovative grip technology where the natural rubber is perforated for intense grip when you need it most. The laser etching centralises you whilst allowing you to glide through your intimate motions.</span></p>
+<h6><span color="#222222">Specification</span></h6>
+<ul>
+<li>
+<span style="font-size: 1.4em;">High Performance sustainable materials</span><br>
+</li>
+<li>
+<span style="font-size: 1.4em;">Innovative Grip Technology: Perforated Surface Intense Grip - No sweat! - this is a new invention! Helps with sweat flow</span><br>
+</li>
+<li>
+<span style="font-size: 1.4em;">Longer. Wider. More room to play!</span><br>
+</li>
+<li><span style="font-size: 1.4em;">Eco Conscious</span></li>
+<li>
+<span style="font-size: 1.4em;">Created for the warrior in you</span><br>
+</li>
+<li>
+<span style="font-size: 1.4em;">Dimensions: 680 x 2130 x 4mm</span><br>
+</li>
+<li>
+<span style="font-size: 1.4em;">Weight: 3.4kg</span><br>
+</li>
+</ul>
+<p><br></p>
+<h3></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best for_Bodyweight Training</s:tag>
+    <s:tag>Best for_Extra Support</s:tag>
+    <s:tag>Best for_Ultra Grip</s:tag>
+    <s:tag>Paws</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/5479023902880</id>
+      <title>Default Title</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>YBPAWSX</s:sku>
+      <s:grams>3400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/5479024230560</id>
+    <published>2020-08-12T11:55:07-05:00</published>
+    <updated>2020-08-12T11:55:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yoga-block-bamboo-bamboo-support-block"/>
+    <title>Yoga block bamboo - Bamboo support block</title>
+    <s:type>Yoga Block</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-Bamboo-Block-1s.jpg?v=1596725625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Block<br>
+        <strong>Price: </strong>
+            37.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Unique support for a unique practice </span></p>
+<p><span>Blocks Crafted from bamboo offer support for every pose</span></p>
+<p><span>Specifications:<br></span><span>Dimensions: 22.5cm x 15cm Thickness; 7cm<br>Materials: Bamboo</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Block</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/5479024230560</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.95</s:price>
+      <s:sku>YBBLKBAM</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/4169024634944</id>
+    <published>2019-09-27T11:06:13-05:00</published>
+    <updated>2019-09-27T11:06:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare%C2%AE-yoga-stretching-strap-blue"/>
+    <title>Yoga stretching strap blue</title>
+    <s:type>Yoga Strap</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/2_abfa5b6a-7b96-4a57-91c4-d75ae302d54d.png?v=1623141482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Strap<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>The beautifully woven yoga strap by Yogi Bare.</h3>
+<h3>Made from soft cotton and measuring 1.8 meters x 40mm</h3>
+<h3>The Yogi Bare Yoga strap allows you to go deeper in your asana practice to help achieve your goals</h3>
+<h3>The strap enables you to ease into the more difficult postures, gradually opening your body up to achieving depth, endurance and mobility.</h3>
+<h3>This is a vital tool for anyone practicing Yoga, from beginner to improver, the ways to use a Yoga strap are limitless.</h3>
+<h3>The strap can be used for a range of other mobility stretches making this kit-bag must have.</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Strap</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/4169024634944</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>YBSTRBL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/3359002886208</id>
+    <published>2019-09-05T16:30:00-05:00</published>
+    <updated>2019-09-05T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-lunar-paws"/>
+    <title>Lunar Paws - Natural rubber extreme grip yoga mat - Blue</title>
+    <s:type>Yoga Mat</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-Paws-Yoga-Mat-blue-7.jpg?v=1620749433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Mat<br>
+        <strong>Price: </strong>
+            104.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Lunar Paws is our love letter to the Ocean, the moon and all that we are. Just as the moon moves through cycles and the ocean moves through waves, we created Lunar Paws to be there to support you; whatever your cycle, whatever your wave, however you move. We believe that everything you need is already within you. </h4>
+<h4>Etched into the mat are tiny mountains and hidden symbols waiting to be discovered through your practice.  Inhale. Exhale. Come back to me.</h4>
+<h4>
+<strong>Please allow an extra 2-3 days for delivery.</strong><br>
+</h4>
+<h6><strong>Specification</strong></h6>
+<ul>
+<li>
+<p>Our Infamous Grip, Naturally. It wouldn't be Yogi Bare without it.</p>
+</li>
+<li>
+<p>Crafted from sustainable rubber, the Yogi Bare Lunar Paws offers the optimal high performance yoga mat experience, no matter what waves life sends your way. </p>
+</li>
+<li>
+<p>Dimensions: 180cm x 66cm - slightly longer and wider than your average yoga mat giving you more room to play. </p>
+</li>
+<li>
+<p>A 4mm thickness provides a stable yet supportive surface to protect your joints. </p>
+</li>
+<li>
+<p>Weight 2.5kg. </p>
+</li>
+<li>
+<p>With The Moon As Your Guide. Create your own flow.</p>
+</li>
+</ul>
+<h4></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best for_Extra Support</s:tag>
+    <s:tag>Best for_Ultra Grip</s:tag>
+    <s:tag>Paws</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/3359002886208</id>
+      <title>Default Title</title>
+      <s:price currency="USD">104.95</s:price>
+      <s:sku>YBPAWSNAV</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675401490496</id>
+    <published>2019-09-05T16:30:00-05:00</published>
+    <updated>2019-09-05T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-paws-natural-rubber-extreme-grip-yoga-mat-red"/>
+    <title>Paws - Natural rubber extreme grip yoga mat - Red</title>
+    <s:type>Yoga Mat</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-Paws-Yoga-Mat-red-7.jpg?v=1620749733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Mat<br>
+        <strong>Price: </strong>
+            104.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>GRIP LIKE NEVER BEFORE! Say Goodbye to being a Grizzly Yogi Bare and allow us to introduce the Yogi Bare PAWS mat for the grip of your life. Crafted from eco friendly natural rubber you won’t be able to keep your paws off of it.</h4>
+<h4>Can’t wait to get your PAWS on one?</h4>
+<h6>Specifications<br>
+</h6>
+<ul>
+<li>
+<p>Materials: Natural Rubber and PU</p>
+</li>
+<li>
+<p>Dimensions: 180cm x 66cm</p>
+</li>
+<li>
+<p>Thickness (for Savasana!) : 4mm</p>
+</li>
+<li>
+<p>Weight 2.5 Kg</p>
+</li>
+<li>
+<p>Non slip technology</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best for_Extra Support</s:tag>
+    <s:tag>Best for_Ultra Grip</s:tag>
+    <s:tag>Paws</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675401490496</id>
+      <title>Default Title</title>
+      <s:price currency="USD">104.95</s:price>
+      <s:sku>YBPAWSRD</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/3300025008192</id>
+    <published>2019-03-21T06:05:10-05:00</published>
+    <updated>2019-03-21T06:05:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-hug-yoga-mat-carrying-strap-forrest-green"/>
+    <title>Yoga mat carrying strap forest green</title>
+    <s:type>Yoga Mat Carry Strap</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-PRODUCT-COLOUR-14_0b2255da-8a1b-4c95-b520-0d3ae6ddf54b.jpg?v=1553166318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Mat Carry Strap<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Give your Yogi Bare mat the Bare Hug it deserves!</h3>
+<h3>Our beautifully designed Yogi Bare Hug is as functional as it is stylish. Fully adjustable to snuggly fit any yoga mat at the length and height you find most comfortable. </h3>
+<h3>Crafted from Vegan Leather &amp; durable and strong Nylon webbing.</h3>
+<h3>Easy wipe clean.</h3>
+<h3>Removable strap for cleaning or to simply use the base as a neat mat holder. (Marie Kondo approves) </h3>
+<h3>This is the only yoga mat carrier to take you from Y to B. </h3>
+<p><img src="https://cdn.shopify.com/s/files/1/2128/0363/files/Yogi-Bare-Yoga-Mat-Carry-Strap-Personalised-2_600x600.jpg?v=1590763364" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carry strap</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/3300025008192</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>YBCARGN</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/3300023599168</id>
+    <published>2019-03-21T06:04:57-05:00</published>
+    <updated>2019-03-21T06:04:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-hug-yoga-mat-carrying-strap"/>
+    <title>Yoga mat carrying strap black</title>
+    <s:type>Yoga Mat Carry Strap</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-PRODUCT-COLOUR-18_1e9207d7-1b7f-4e40-8711-ec86aeaf0c21.jpg?v=1553166310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Mat Carry Strap<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Give your Yogi Bare mat the Bare Hug it deserves!</h3>
+<h3>Our beautifully designed Yogi Bare Hug is as functional as it is stylish. Fully adjustable to snuggly fit any yoga mat at the length and height you find most comfortable. </h3>
+<h3>Crafted from Vegan Leather &amp; durable and strong Nylon webbing.</h3>
+<h3>Easy wipe clean.</h3>
+<h3>Removable strap for cleaning or to simply use the base as a neat mat holder. (Marie Kondo approves) </h3>
+<h3>This is the only yoga mat carrier to take you from Y to B. </h3>
+<p><img src="https://cdn.shopify.com/s/files/1/2128/0363/files/Yogi-Bare-Yoga-Mat-Carry-Strap-Personalised-2_600x600.jpg?v=1590763364" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carry strap</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/3300023599168</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>YBCARBK</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675417219136</id>
+    <published>2019-03-21T05:52:14-05:00</published>
+    <updated>2019-03-21T05:52:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-wheel-tropical-cork-flexibility-support-aid-for-yoga-practice"/>
+    <title>Yoga wheel tropical cork - flexibility &amp; support aid</title>
+    <s:type>Yoga Wheels</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/WheelCork-4.jpg?v=1623141347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Wheels<br>
+        <strong>Price: </strong>
+            62.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>Do you know what’s wheely good? A Yogi Bare Yoga Wheel!</strong></h3>
+<div class="page" title="Page 17">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><strong>Why? </strong></p>
+<ul>
+<li>Deep front side of body stretch: Chest, shoulders, heart opening, hip flexors + abs.</li>
+<li>Safe + Effective spinal massage.</li>
+<li>Improves posture, spine health + mobility.</li>
+<li>Restorative tool to increase flexibility.</li>
+<li>Assists Yogis in exploring “advanced” postures and build confidence in backbends and inversions.<br> <br>
+</li>
+</ul>
+<p><strong>Yogi Bare Founder Kat’s Favourite way to use the wheel:</strong></p>
+<p>Lets start with a wonderful massage to warm up the spine, chest and shoulders. This is a great exercise to add into your daily practice and prepare the body.</p>
+<p>In a seated position line the wheel up and connect against the lower back/ sacrum.</p>
+<p>Plant the feet, take your arms overhead. Lightly push through the feet and allow your spine to melt over the wheel rolling back and forward.</p>
+<p>Start slowly and roll to your own depth on this particular day of practice.</p>
+<p>Once you find your sweet spot stay for a few slow measured breaths.</p>
+<p>Gently roll back to start until your bottom connects with the floor.</p>
+<p>Counterpose with childs pose.</p>
+<p><strong>How to Love me</strong></p>
+<p>Do not drop from a height. Store appropriately.</p>
+<p>Spot clean + only use for intended use.</p>
+<p>There’s lots of great ideas on Youtube + our blog!</p>
+<p><span><strong>Specifications:</strong></span></p>
+<p><span>Dimensions: </span><span>33cm in diameter x 13cm width<br></span>Thickness; 1.6cm<br>Materials Strong ABS plastic featuring 6mm thickness TPE matting exterior</p>
+</div>
+</div>
+</div>
+</div>
+<div class="page" title="Page 17">
+<div class="section">
+<div class="layoutArea">
+<div class="column"></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wheel</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675417219136</id>
+      <title>Default Title</title>
+      <s:price currency="USD">62.95</s:price>
+      <s:sku>YBCKWHPAL</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675416596544</id>
+    <published>2019-03-21T05:52:14-05:00</published>
+    <updated>2019-03-21T05:52:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-wheel-palm-flexibility-support-aid-for-yoga-practice"/>
+    <title>Yoga wheel tropical - flexibility &amp; support aid</title>
+    <s:type>Yoga Wheels</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/TropicalWheelwithnewlogo.jpg?v=1623141289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Wheels<br>
+        <strong>Price: </strong>
+            62.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row">
+<div class="col-xs-12 col-md-7 product-info-right">
+<div class="product-description">
+<h3><strong>Do you know what’s wheely good? A Yogi Bare Yoga Wheel!</strong></h3>
+<div class="page" title="Page 17">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><strong>Why? </strong></p>
+<ul>
+<li>Deep front side of body stretch: Chest, shoulders, heart opening, hip flexors + abs.</li>
+<li>Safe + Effective spinal massage.</li>
+<li>Improves posture, spine health + mobility.</li>
+<li>Restorative tool to increase flexibility.</li>
+<li>Assists Yogis in exploring “advanced” postures and build confidence in backbends and inversions.<br> <br>
+</li>
+</ul>
+<p><strong>Yogi Bare Founder Kat’s Favourite way to use the wheel:</strong></p>
+<p>Lets start with a wonderful massage to warm up the spine, chest and shoulders. This is a great exercise to add into your daily practice and prepare the body.</p>
+<p>In a seated position line the wheel up and connect against the lower back/ sacrum.</p>
+<p>Plant the feet, take your arms overhead. Lightly push through the feet and allow your spine to melt over the wheel rolling back and forward.</p>
+<p>Start slowly and roll to your own depth on this particular day of practice.</p>
+<p>Once you find your sweet spot stay for a few slow measured breaths.</p>
+<p>Gently roll back to start until your bottom connects with the floor.</p>
+<p>Counterpose with childs pose.</p>
+<p><strong>How to Love me</strong></p>
+<p>Do not drop from a height. Store appropriately.</p>
+<p>Spot clean + only use for intended use.</p>
+<p>There’s lots of great ideas on Youtube + our blog!</p>
+<p><span><strong>Specifications:</strong></span></p>
+<p><span>Dimensions: </span><span>33cm in diameter x 13cm width<br></span>Thickness; 1.6cm<br>Materials Strong ABS plastic featuring 6mm thickness TPE matting exterior</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row related-products-row">
+<div class="col-xs-12"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wheel</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675416596544</id>
+      <title>Default Title</title>
+      <s:price currency="USD">62.95</s:price>
+      <s:sku>YBWHPAL</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675415744576</id>
+    <published>2019-03-21T05:52:14-05:00</published>
+    <updated>2019-03-21T05:52:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-wheel-cosmic-flexibility-support-aid-for-yoga-practice"/>
+    <title>Yoga wheel cosmic - flexibility &amp; support aid</title>
+    <s:type>Yoga Wheels</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/WheelCosmic-Newlogo-1.jpg?v=1623141202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Wheels<br>
+        <strong>Price: </strong>
+            62.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>Do you know what’s wheely good? A Yogi Bare Yoga Wheel!</strong></h3>
+<div class="page" title="Page 17">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><strong>Why? </strong></p>
+<ul>
+<li>Deep front side of body stretch: Chest, shoulders, heart opening, hip flexors + abs.</li>
+<li>Safe + Effective spinal massage.</li>
+<li>Improves posture, spine health + mobility.</li>
+<li>Restorative tool to increase flexibility.</li>
+<li>Assists Yogis in exploring “advanced” postures and build confidence in backbends and inversions.<br> <br>
+</li>
+</ul>
+<p><strong>Yogi Bare Founder Kat’s Favourite way to use the wheel:</strong></p>
+<p>Lets start with a wonderful massage to warm up the spine, chest and shoulders. This is a great exercise to add into your daily practice and prepare the body.</p>
+<p>In a seated position line the wheel up and connect against the lower back/ sacrum.</p>
+<p>Plant the feet, take your arms overhead. Lightly push through the feet and allow your spine to melt over the wheel rolling back and forward.</p>
+<p>Start slowly and roll to your own depth on this particular day of practice.</p>
+<p>Once you find your sweet spot stay for a few slow measured breaths.</p>
+<p>Gently roll back to start until your bottom connects with the floor.</p>
+<p>Counterpose with childs pose.</p>
+<p><strong>How to Love me</strong></p>
+<p>Do not drop from a height. Store appropriately.</p>
+<p>Spot clean + only use for intended use.</p>
+<p>There’s lots of great ideas on Youtube + our blog!</p>
+<p><span><strong>Specifications:</strong></span></p>
+<p><span>Dimensions: </span><span>33cm in diameter x 13cm width<br></span>Thickness; 1.6cm<br>Materials Strong ABS plastic featuring 6mm thickness TPE matting exterior</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wheel</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675415744576</id>
+      <title>Default Title</title>
+      <s:price currency="USD">62.95</s:price>
+      <s:sku>YBWHCOS</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675415416896</id>
+    <published>2019-03-21T05:52:13-05:00</published>
+    <updated>2019-03-21T05:52:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-stretching-strap-tropical"/>
+    <title>Yoga stretching strap tropical</title>
+    <s:type>Yoga Strap</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/2_35b2abfe-99a3-4d48-b34e-4be2fe139e54.png?v=1623141079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Strap<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>The beautifully woven yoga strap by Yogi Bare.</h3>
+<h3>Made from soft cotton and measuring 1.8 meters x 40mm</h3>
+<h3>The Yogi Bare Yoga strap allows you to go deeper in your asana practice to help achieve your goals</h3>
+<h3>The strap enables you to ease into the more difficult postures, gradually opening your body up to achieving depth, endurance and mobility.</h3>
+<h3>This is a vital tool for anyone practicing Yoga, from beginner to improver, the ways to use a Yoga strap are limitless.</h3>
+<h3>The strap can be used for a range of other mobility stretches making this kit-bag must have.</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Strap</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675415416896</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>YBSTRPAL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675414892608</id>
+    <published>2019-03-21T05:52:13-05:00</published>
+    <updated>2019-03-21T05:52:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-stretching-strap-cosmic"/>
+    <title>Yoga stretching strap cosmic</title>
+    <s:type>Yoga Strap</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/2_2dce15e7-6508-45e8-a98a-90718cf0b3b9.png?v=1623141030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Strap<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>The beautifully woven yoga strap by Yogi Bare.</h3>
+<h3>Made from soft cotton and measuring 1.8 meters x 40mm</h3>
+<h3>The Yogi Bare Yoga strap allows you to go deeper in your asana practice to help achieve your goals</h3>
+<h3>The strap enables you to ease into the more difficult postures, gradually opening your body up to achieving depth, endurance and mobility.</h3>
+<h3>This is a vital tool for anyone practicing Yoga, from beginner to improver, the ways to use a Yoga strap are limitless.</h3>
+<h3>The strap can be used for a range of other mobility stretches making this kit-bag must have.</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Strap</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675414892608</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>YBSTRCO</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675414761536</id>
+    <published>2019-03-21T05:52:13-05:00</published>
+    <updated>2019-03-21T05:52:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-stretching-strap-black"/>
+    <title>Yoga stretching strap black</title>
+    <s:type>Yoga Strap</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-Yoga-Block-Black-1_05baf0c3-6af4-4b4e-a609-6622a528e31c.jpg?v=1621268790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Strap<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>The beautifully woven yoga strap by Yogi Bare.</h3>
+<h3>Made from soft cotton and measuring 1.8 meters x 40mm</h3>
+<h3>The Yogi Bare Yoga strap allows you to go deeper in your asana practice to help achieve your goals</h3>
+<h3>The strap enables you to ease into the more difficult postures, gradually opening your body up to achieving depth, endurance and mobility.</h3>
+<h3>This is a vital tool for anyone practicing Yoga, from beginner to improver, the ways to use a Yoga strap are limitless.</h3>
+<h3>The strap can be used for a range of other mobility stretches making this kit-bag must have.</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Strap</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675414761536</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>YBSTRBK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675413221440</id>
+    <published>2019-03-21T05:52:13-05:00</published>
+    <updated>2019-03-21T05:52:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-block-firm-foam-support-block-purple"/>
+    <title>Yoga block purple - Firm foam support block</title>
+    <s:type>Yoga Block</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-PRODUCT-COLOUR-2.jpg?v=1548762189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Block<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 21">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Unique support for a unique practice </span></p>
+<p><span>Blocks Crafted from EVA foam our unique tie dye yoga blocks offer support for every pose </span></p>
+<p><span>Specifications:<br> </span><span>Dimensions: 22.5cm x 15cm Thickness; 7cm<br> Materials: EVA foam </span></p>
+</div>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Block</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675413221440</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>YBBLKPU</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675412664384</id>
+    <published>2019-03-21T05:52:12-05:00</published>
+    <updated>2019-03-21T05:52:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-block-firm-foam-support-block-pink"/>
+    <title>Yoga block pink - Firm foam support block</title>
+    <s:type>Yoga Block</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-PRODUCT-COLOUR-1.jpg?v=1548762185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Block<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 21">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Unique support for a unique practice </span></p>
+<p><span>Blocks Crafted from EVA foam our unique tie dye yoga blocks offer support for every pose </span></p>
+<p><span>Specifications:<br> </span><span>Dimensions: 22.5cm x 15cm Thickness; 7cm<br> Materials: EVA foam </span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Block</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675412664384</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>YBBLKPK</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675412107328</id>
+    <published>2019-03-21T05:52:12-05:00</published>
+    <updated>2019-03-21T05:52:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-block-firm-foam-support-block-green"/>
+    <title>Yoga block green - Firm foam support block</title>
+    <s:type>Yoga Block</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-PRODUCT-COLOUR-16_b809ad29-484d-4df5-abbb-eb6cc640c1f8.jpg?v=1548762182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Block<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 21">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Unique support for a unique practice </span></p>
+<p><span>Blocks Crafted from EVA foam our unique tie dye yoga blocks offer support for every pose </span></p>
+<p><span>Specifications:<br> </span><span>Dimensions: 22.5cm x 15cm Thickness; 7cm<br> Materials: EVA foam </span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Block</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675412107328</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>YBBLKGN</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675411910720</id>
+    <published>2019-03-21T05:52:12-05:00</published>
+    <updated>2019-03-21T05:52:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-block-firm-foam-support-block-blue"/>
+    <title>Yoga block blue - Firm foam support block</title>
+    <s:type>Yoga Block</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-PRODUCT-COLOUR-3.jpg?v=1548762180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Block<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 21">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Unique support for a unique practice </span></p>
+<p><span>Blocks Crafted from EVA foam our unique tie dye yoga blocks offer support for every pose </span></p>
+<p><span>Speci cations:<br> </span><span>Dimensions: 22.5cm x 15cm Thickness; 7cm<br> Materials: EVA foam </span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Block</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675411910720</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>YBBLKBL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675411583040</id>
+    <published>2019-03-21T05:52:12-05:00</published>
+    <updated>2019-03-21T05:52:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-block-firm-foam-support-block-black"/>
+    <title>Yoga block black - Firm foam support block</title>
+    <s:type>Yoga Block</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-Yoga-Block-Black-2.jpg?v=1596553569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Block<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Unique support for a unique practice </span></p>
+<p><span>Blocks Crafted from EVA foam our unique tie dye yoga blocks offer support for every pose </span></p>
+<p><span>Specifications:<br></span><span>Dimensions: 22.5cm x 15cm Thickness; 7cm<br>Materials: EVA foam</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Block</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675411583040</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>YBBLKBK</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

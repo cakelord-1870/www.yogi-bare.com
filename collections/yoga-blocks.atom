@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.yogi-bare.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.yogi-bare.com/collections/yoga-blocks.atom"/>
+  <title>Yogi Bare USA</title>
+  <updated>2020-08-12T11:55:07-05:00</updated>
+  <author>
+    <name>Yogi Bare USA</name>
+  </author>
+  <entry>
+    <id>https://www.yogi-bare.com/products/5479024230560</id>
+    <published>2020-08-12T11:55:07-05:00</published>
+    <updated>2020-08-12T11:55:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yoga-block-bamboo-bamboo-support-block"/>
+    <title>Yoga block bamboo - Bamboo support block</title>
+    <s:type>Yoga Block</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-Bamboo-Block-1s.jpg?v=1596725625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Block<br>
+        <strong>Price: </strong>
+            37.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Unique support for a unique practice </span></p>
+<p><span>Blocks Crafted from bamboo offer support for every pose</span></p>
+<p><span>Specifications:<br></span><span>Dimensions: 22.5cm x 15cm Thickness; 7cm<br>Materials: Bamboo</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Block</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/5479024230560</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.95</s:price>
+      <s:sku>YBBLKBAM</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675413221440</id>
+    <published>2019-03-21T05:52:13-05:00</published>
+    <updated>2019-03-21T05:52:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-block-firm-foam-support-block-purple"/>
+    <title>Yoga block purple - Firm foam support block</title>
+    <s:type>Yoga Block</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-PRODUCT-COLOUR-2.jpg?v=1548762189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Block<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 21">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Unique support for a unique practice </span></p>
+<p><span>Blocks Crafted from EVA foam our unique tie dye yoga blocks offer support for every pose </span></p>
+<p><span>Specifications:<br> </span><span>Dimensions: 22.5cm x 15cm Thickness; 7cm<br> Materials: EVA foam </span></p>
+</div>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Block</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675413221440</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>YBBLKPU</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675412664384</id>
+    <published>2019-03-21T05:52:12-05:00</published>
+    <updated>2019-03-21T05:52:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-block-firm-foam-support-block-pink"/>
+    <title>Yoga block pink - Firm foam support block</title>
+    <s:type>Yoga Block</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-PRODUCT-COLOUR-1.jpg?v=1548762185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Block<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 21">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Unique support for a unique practice </span></p>
+<p><span>Blocks Crafted from EVA foam our unique tie dye yoga blocks offer support for every pose </span></p>
+<p><span>Specifications:<br> </span><span>Dimensions: 22.5cm x 15cm Thickness; 7cm<br> Materials: EVA foam </span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Block</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675412664384</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>YBBLKPK</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675412107328</id>
+    <published>2019-03-21T05:52:12-05:00</published>
+    <updated>2019-03-21T05:52:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-block-firm-foam-support-block-green"/>
+    <title>Yoga block green - Firm foam support block</title>
+    <s:type>Yoga Block</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-PRODUCT-COLOUR-16_b809ad29-484d-4df5-abbb-eb6cc640c1f8.jpg?v=1548762182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Block<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 21">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Unique support for a unique practice </span></p>
+<p><span>Blocks Crafted from EVA foam our unique tie dye yoga blocks offer support for every pose </span></p>
+<p><span>Specifications:<br> </span><span>Dimensions: 22.5cm x 15cm Thickness; 7cm<br> Materials: EVA foam </span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Block</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675412107328</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>YBBLKGN</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675411910720</id>
+    <published>2019-03-21T05:52:12-05:00</published>
+    <updated>2019-03-21T05:52:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-block-firm-foam-support-block-blue"/>
+    <title>Yoga block blue - Firm foam support block</title>
+    <s:type>Yoga Block</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-PRODUCT-COLOUR-3.jpg?v=1548762180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Block<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 21">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Unique support for a unique practice </span></p>
+<p><span>Blocks Crafted from EVA foam our unique tie dye yoga blocks offer support for every pose </span></p>
+<p><span>Speci cations:<br> </span><span>Dimensions: 22.5cm x 15cm Thickness; 7cm<br> Materials: EVA foam </span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Block</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675411910720</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>YBBLKBL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.yogi-bare.com/products/2675411583040</id>
+    <published>2019-03-21T05:52:12-05:00</published>
+    <updated>2019-03-21T05:52:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.yogi-bare.com/products/yogi-bare-yoga-block-firm-foam-support-block-black"/>
+    <title>Yoga block black - Firm foam support block</title>
+    <s:type>Yoga Block</s:type>
+    <s:vendor>Yogi Bare®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0195/9310/1376/products/Yogi-Bare-Yoga-Block-Black-2.jpg?v=1596553569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogi Bare®<br>
+        <strong>Type: </strong>Yoga Block<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Unique support for a unique practice </span></p>
+<p><span>Blocks Crafted from EVA foam our unique tie dye yoga blocks offer support for every pose </span></p>
+<p><span>Specifications:<br></span><span>Dimensions: 22.5cm x 15cm Thickness; 7cm<br>Materials: EVA foam</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Block</s:tag>
+    <s:variant>
+      <id>https://www.yogi-bare.com/products/2675411583040</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>YBBLKBK</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>
